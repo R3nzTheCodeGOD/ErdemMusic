@@ -1,2 +1,0 @@
-# ErdemMusic
-Discord Music Service
