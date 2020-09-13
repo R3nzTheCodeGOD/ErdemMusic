@@ -1,19 +1,38 @@
-![Erdem Music](https://cdn.discordapp.com/avatars/718225758790877374/da23587ccd897cc20ba226ab4c426386.png?size=256)
-
 # Erdem Music
-Discord için geliştirilmiş profesyonel müzik botu.
 
-## Botumu Davet Et
-Eğer botumu kendi sunucuna eklemek istersen [buradan](https://discord.com/oauth2/authorize?client_id=718225758790877374&scope=bot&permissions=573860928) ekleyebilirsin ;) 
+## Açıklama
+Discord için geliştirilmiş, spotify ve youtube platformundan müzikler açan profesyonel müzik botudur.
 
-## Kullanımı 
-Botun websitesindeki komutlar kısmından bakabilirsiniz. [Website](https://erdemusic.glitch.me)
+# Komutlar
+## Müzik Komutları
 
-## Destek
-Bot hakkında bir şeye ihyiyacın olursa beni burada bulabilirsin emin ol, sorununu çözeriz :)
+|Komut|Komut Açıklama|
+|-|-|
+|`+çal`|Müziği baştatır|
+|`+dur`|Müzigi durdurur|
+|`+tekrar`|Müzigi döngüye alır, yine kullanılırsa kapatılır|
+|`+reset`|Çalan müziği başa sarar|
+|`+karıştır`|Şarkı kuyruğunu karıştırır|
+|`+geç`|Sıradaki şarkıya geçer|
+|`+çıkar`|Listedeki belirttiğiniz şarkıyı listeden çıkarır|
+|`+katıl`|Odanıza katılır|
+|`+çık`|Odanızdan Çıkar|
+|`+duraklat`|Şarkıyı duraklatır, `+devam` komutu ile devam ettirilir|
+|`+devam`|Duraklatılmış şarkıyı devam ettirir|
+|`+sıradakiler`|Sıradaki şarkıları gösterir|
+|`+çalan`|Çalan şarkıyı gösterir|
+|`+ses`|Ses seviyesini görmenizi ve değiştirmenizi sağlar|
 
-[![join erdem music support](https://discordapp.com/api/guilds/350224935819542538/embed.png?style=banner2)](https://discord.gg/KuhUrqd)
-
-## Bağış 
-Ne bağışı amk tek istediğim canın sağlğı kendine iyi bak :)
-# R3nz The CodeGOD
+## Genel Komutlar
+|Komut|Komut Açıklama|
+|-|-|
+|`+avatar`|Avatarınızı veya etiketlediğiniz kişinin avatarını gösterir|
+|`+çeviri`|Yazdıgınız metini belirttiğiniz dile çevirir|
+|`+ping`|Botun pingini gösterir|
+|`kbilgi`|Hesabınız hakkında bilgi verir, etiket atarsanız o kişinin bilgilerini verir|
+|`+sunucu`|Lonca hakkında bilgi verir|
+|`+tahmin`|Sayı Tahmin oyunu oynatır|
+|`+yaz`|Botu konuşturursunuz|
+|`+eyaz`|Yazdığınız mesajı emojiye çevirir|
+|`+davet`|Botun davet linkini atar|
+|`+bilgi`|Bot hakkında bilgi verir|
