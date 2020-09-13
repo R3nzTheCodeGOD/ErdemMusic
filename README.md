@@ -1,4 +1,4 @@
-![Erdem Music](https://cdn.discordapp.com/avatars/718225758790877374/da23587ccd897cc20ba226ab4c426386.png?size=64)
+![Erdem Music](https://cdn.discordapp.com/avatars/718225758790877374/da23587ccd897cc20ba226ab4c426386.png?size=512)
 
 # Erdem Music
 Discord için geliştirilmiş bir veya birden fazla işlevi yerine getirebilen gelişmiş bot.
