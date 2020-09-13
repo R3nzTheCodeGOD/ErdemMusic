@@ -1,7 +1,7 @@
-![Erdem Music](https://cdn.discordapp.com/avatars/718225758790877374/da23587ccd897cc20ba226ab4c426386.png?size=512)
+![Erdem Music](https://cdn.discordapp.com/avatars/718225758790877374/da23587ccd897cc20ba226ab4c426386.png?size=256)
 
 # Erdem Music
-Discord için geliştirilmiş bir veya birden fazla işlevi yerine getirebilen gelişmiş bot.
+Discord için geliştirilmiş profesyonel müzik botu.
 
 ## Botumu Davet Et
 Eğer botumu kendi sunucuna eklemek istersen [buradan](https://discord.com/oauth2/authorize?client_id=718225758790877374&scope=bot&permissions=573860928) ekleyebilirsin ;) 
