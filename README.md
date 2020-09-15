@@ -1,7 +1,7 @@
 # Erdem Music
 
 ## Açıklama
-Discord için geliştirilmiş, spotify ve youtube platformundan müzikler açan profesyonel müzik botudur.
+Discord için geliştirilmiş, `Spotify`, `Soundcloud` ve `Youtube`  platformundan müzikler açan profesyonel müzik botudur.
 
 # Komutlar
 ## Müzik Komutları
