@@ -3,6 +3,14 @@ Discord için geliştirilmiş, `Spotify`, `Soundcloud` ve `Youtube`  platformund
 Botu eklemek için [buraya](https://discord.com/oauth2/authorize?client_id=718225758790877374&scope=bot&permissions=573860928) tıklayınız.
 
 # Komutlar
+
+## Spotify
+**Bu botu diğer botlardan farklı kılan komut ektedir.**
+
+|Komut|Komut Açıklama|
+|-|-|
+|`+spotify`|Sizin veya etiketlediğiniz kullanıcının (eğer dinliyorsa) ve (spotify hesabı discorda bağlıysa) spotifyından anlık veri çekerek onla aynı müzigin botta çalması sağlanır.|
+|`+dur`|Spotify döngüsünü ve çalan şarkıyı sonlandırırsınız.|
 ## Müzik Komutları
 
 |Komut|Komut Açıklama|
