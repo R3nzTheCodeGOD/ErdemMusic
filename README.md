@@ -1,4 +1,4 @@
-# Erdem Music
+# PulchraBOT
 Discord için geliştirilmiş, `Spotify`, `Soundcloud` ve `Youtube`  platformundan müzikler açan profesyonel müzik botudur.
 Botu eklemek için [buraya](https://discord.com/oauth2/authorize?client_id=718225758790877374&scope=bot&permissions=573860928) tıklayınız.
 
